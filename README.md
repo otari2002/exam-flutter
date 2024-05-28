@@ -1,4 +1,4 @@
-# first_flutter_app
+# Library Manager
 
 A new Flutter project.
 
